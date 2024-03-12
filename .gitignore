@@ -9,7 +9,6 @@ components/esp_littlefs/
 components/esp-rainmaker/
 components/espressif__esp-dsp/
 components/esp-insights/
-components/arduino_tinyusb/tinyusb/
 esp-idf/
 out/
 build/
